@@ -8,11 +8,8 @@ I specialize in:
 - **Databases & ORMs:** MySQL, PostgreSQL, MongoDB, Redis, Prisma, Sequelize, Mongoose
 - **State Management:** Redux, React Query, Zustand
 - **UI Libraries & Frameworks:** Tailwind CSS, Bootstrap, Next UI, MUI, Headless UI, shadcn UI, Core UI
-- **Rendering:** SSG, SSR, Dynamic Rendering
-- **Performance:** Image Optimization, Lazy Loading
 - **Forms:** React Hook Form, useFormik
 - **API & Data Fetching:** REST API, JSON, Axios
-- **Authentication:** NextAuth.js
 - **Version Control:** Git, GitHub, GitLab
 - **Tools:** Docker
 
