@@ -68,7 +68,6 @@ I specialize in:
 ## 📫 Get In Touch
 
 - 📧 Email: [erfansharafi60@gmail.com](mailto:erfansharafi60@gmail.com)
-- 📞 Phone: 09105003119
 
 ---
 
