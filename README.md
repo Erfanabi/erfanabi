@@ -19,9 +19,38 @@ Lately I care less about "building websites" and more about building the tools a
 
 **What I work with**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,sass,mui,nodejs,express,graphql,postgres,mongodb,redis,prisma,python,docker,git,jest,vitest&perline=10)](https://skillicons.dev)
-
-Also: React Query, Zustand, Fastify, Socket.io, Pandas, Hugging Face, n8n, Cypress, Storybook.
+<p>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/8E8EA0" alt="Next.js" title="Next.js" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/redux/764ABC" alt="Redux Toolkit" title="Redux Toolkit" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" alt="React Query" title="React Query" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" title="Bootstrap" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/mui/007FFF" alt="MUI" title="MUI" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/storybook/FF4785" alt="Storybook" title="Storybook" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/sass/CC6699" alt="Sass" title="Sass" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" alt="Webpack" title="Webpack" width="36" height="36" />
+</p>
+<p>
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/express/8E8EA0" alt="Express.js" title="Express.js" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/fastify/8E8EA0" alt="Fastify" title="Fastify" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/graphql/E10098" alt="GraphQL" title="GraphQL" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/socketdotio/8E8EA0" alt="Socket.io" title="Socket.io" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/8E8EA0" alt="Pandas" title="Pandas" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" title="Hugging Face" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/jest/C63D14" alt="Jest" title="Jest" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/vitest/6E9F18" alt="Vitest" title="Vitest" width="36" height="36" />&nbsp;
+  <img src="https://cdn.simpleicons.org/cypress/69D3A7" alt="Cypress" title="Cypress" width="36" height="36" />
+</p>
 
 **Find me**
 
